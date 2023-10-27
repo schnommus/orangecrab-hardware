@@ -34,23 +34,6 @@
     )
   )
 
-  (sheet (at 160.02 73.66) (size 48.26 22.86) (fields_autoplaced)
-    (stroke (width 0) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 00000000-0000-0000-0000-00005abc9a87)
-    (property "Sheetname" "IO" (at 160.02 72.8214 0)
-      (effects (font (size 1.524 1.524)) (justify left bottom))
-    )
-    (property "Sheetfile" "IO.kicad_sch" (at 160.02 97.2062 0)
-      (effects (font (size 1.524 1.524)) (justify left top))
-    )
-    (instances
-      (project "OrangeCrab"
-        (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477" (page "6"))
-      )
-    )
-  )
-
   (sheet (at 102.87 106.68) (size 45.72 25.4) (fields_autoplaced)
     (stroke (width 0) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -64,23 +47,6 @@
     (instances
       (project "OrangeCrab"
         (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477" (page "5"))
-      )
-    )
-  )
-
-  (sheet (at 45.72 106.68) (size 45.72 25.4) (fields_autoplaced)
-    (stroke (width 0) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 00000000-0000-0000-0000-00005ac0a2a0)
-    (property "Sheetname" "SDMMC" (at 45.72 105.8414 0)
-      (effects (font (size 1.524 1.524)) (justify left bottom))
-    )
-    (property "Sheetfile" "SDMMC.kicad_sch" (at 45.72 132.7662 0)
-      (effects (font (size 1.524 1.524)) (justify left top))
-    )
-    (instances
-      (project "OrangeCrab"
-        (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477" (page "3"))
       )
     )
   )

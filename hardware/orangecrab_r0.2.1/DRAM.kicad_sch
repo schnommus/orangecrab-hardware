@@ -1529,8 +1529,8 @@
     (pin "P3" (uuid b974f805-db0f-498c-8eb0-81470cc2a1c8))
     (pin "P7" (uuid 9e40d087-3f39-4b9f-a14e-c02b8f50583e))
     (pin "P8" (uuid 41460500-2dcf-4eea-9f83-2dc525e8fd33))
-    (pin "P9" (uuid 03730af9-4d88-488d-91ef-023d7f909a3d))
-    (pin "P9" (uuid 03730af9-4d88-488d-91ef-023d7f909a3d))
+    (pin "P9" (uuid 03730af9-4d88-488d-91ef-023d7f909a3e))
+    (pin "P9" (uuid 03730af9-4d88-488d-91ef-023d7f909a3e))
     (pin "R1" (uuid 69797fc7-eb2d-4bca-9dc4-f5865180918c))
     (pin "R2" (uuid 440a5e5d-73c9-444c-b3b0-b959619694fe))
     (pin "R3" (uuid c7a42734-1d5b-4fdd-94b7-31bae3ab23a0))
@@ -2369,9 +2369,6 @@
         (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/00000000-0000-0000-0000-00005abd38f2"
           (reference "R5") (unit 1)
         )
-        (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/00000000-0000-0000-0000-00005abc9a87"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -2409,9 +2406,6 @@
       (project "OrangeCrab"
         (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/00000000-0000-0000-0000-00005abd38f2"
           (reference "R13") (unit 1)
-        )
-        (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/00000000-0000-0000-0000-00005abc9a87"
-          (reference "R?") (unit 1)
         )
       )
     )
@@ -2451,9 +2445,6 @@
         (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/00000000-0000-0000-0000-00005abd38f2"
           (reference "R1") (unit 1)
         )
-        (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/00000000-0000-0000-0000-00005abc9a87"
-          (reference "R?") (unit 1)
-        )
       )
     )
   )
@@ -2491,9 +2482,6 @@
       (project "OrangeCrab"
         (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/00000000-0000-0000-0000-00005abd38f2"
           (reference "R2") (unit 1)
-        )
-        (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/00000000-0000-0000-0000-00005abc9a87"
-          (reference "R?") (unit 1)
         )
       )
     )
