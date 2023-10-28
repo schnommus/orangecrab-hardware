@@ -369,6 +369,8 @@
   )
 
 
+  (no_connect (at 152.4 43.18) (uuid bed7261b-0e37-40db-891f-a0e9dfa12818))
+
   (global_label "3V3_IO34_B9" (shape bidirectional) (at 139.7 106.68 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 048e3a37-6475-43c2-923b-88b7690ecc0c)
@@ -750,34 +752,6 @@
         )
         (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/79115265-87ba-4259-b432-60b778392309"
           (reference "#PWR07") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "gkl_power:GND") (at 152.4 43.18 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 2004aba2-e59a-4052-9a88-ad2dd20599e0)
-    (property "Reference" "#PWR0146" (at 152.4 36.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 152.4 39.624 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 154.94 34.29 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 152.4 43.18 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8e01c477-0cd2-4c24-a751-2381e49c5d5a))
-    (instances
-      (project "OrangeCrab"
-        (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/00000000-0000-0000-0000-00005d1738db"
-          (reference "#PWR0146") (unit 1)
-        )
-        (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477/79115265-87ba-4259-b432-60b778392309"
-          (reference "#PWR06") (unit 1)
         )
       )
     )
