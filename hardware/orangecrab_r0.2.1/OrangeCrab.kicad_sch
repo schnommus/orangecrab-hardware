@@ -85,6 +85,23 @@
     )
   )
 
+  (sheet (at 159.766 72.898) (size 34.29 23.114) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 79115265-87ba-4259-b432-60b778392309)
+    (property "Sheetname" "CONNECTOR" (at 159.766 72.1864 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "CONNECTOR.kicad_sch" (at 159.766 96.5966 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "OrangeCrab"
+        (path "/3fc0bb0e-dabc-4b81-bef6-ad7dd3f01477" (page "6"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
